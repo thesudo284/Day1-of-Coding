@@ -1,5 +1,5 @@
 # Day1-of-Coding
-Tutorial link- ///////
+Tutorial link- https://www.youtube.com/watch?v=YfBANaApha4&list=PLkseKUOBcQpCeJI7Hdf7fB26HAI3agFZp&index=5
 Variable:-
 ----------------------------------------------
 In Python, a variable is a symbolic name that you assign to store data. It acts as a container to hold values that can be used and manipulated in your code. 
